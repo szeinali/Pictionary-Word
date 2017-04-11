@@ -1,2 +1,2 @@
 # Pictionary-Word
-This application that is written in python will generate a word for the game, pictionary.
+These applications that are written in Python and Swift will generate a word for the game, pictionary.
